@@ -15,6 +15,23 @@
 		FAFFCD031EDB61DC0049BA2B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FAFFCD011EDB61DC0049BA2B /* LaunchScreen.storyboard */; };
 		FAFFCD0E1EDB61DD0049BA2B /* Login_and_Registration_moduleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FAFFCD0D1EDB61DD0049BA2B /* Login_and_Registration_moduleTests.m */; };
 		FAFFCD191EDB61DD0049BA2B /* Login_and_Registration_moduleUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = FAFFCD181EDB61DD0049BA2B /* Login_and_Registration_moduleUITests.m */; };
+		FAFFCD4E1EDB623F0049BA2B /* BTLogin2Button.m in Sources */ = {isa = PBXBuildFile; fileRef = FAFFCD2A1EDB623F0049BA2B /* BTLogin2Button.m */; };
+		FAFFCD4F1EDB623F0049BA2B /* BTLogin2Helper.m in Sources */ = {isa = PBXBuildFile; fileRef = FAFFCD2C1EDB623F0049BA2B /* BTLogin2Helper.m */; };
+		FAFFCD501EDB623F0049BA2B /* BTLogin2TextField.m in Sources */ = {isa = PBXBuildFile; fileRef = FAFFCD2E1EDB623F0049BA2B /* BTLogin2TextField.m */; };
+		FAFFCD511EDB623F0049BA2B /* BTLogin2BundlePhoneNumberViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FAFFCD311EDB623F0049BA2B /* BTLogin2BundlePhoneNumberViewController.m */; };
+		FAFFCD521EDB623F0049BA2B /* BTLogin2GuideViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FAFFCD331EDB623F0049BA2B /* BTLogin2GuideViewController.m */; };
+		FAFFCD531EDB623F0049BA2B /* BTLogin2ManageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FAFFCD351EDB623F0049BA2B /* BTLogin2ManageViewController.m */; };
+		FAFFCD541EDB623F0049BA2B /* BTLogin2PasswdSettingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FAFFCD371EDB623F0049BA2B /* BTLogin2PasswdSettingViewController.m */; };
+		FAFFCD551EDB623F0049BA2B /* BTLogin2RecoverPasswdUseEmailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FAFFCD391EDB623F0049BA2B /* BTLogin2RecoverPasswdUseEmailViewController.m */; };
+		FAFFCD561EDB623F0049BA2B /* BTLogin2RecoverPasswdUsePhoneNumberViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FAFFCD3B1EDB623F0049BA2B /* BTLogin2RecoverPasswdUsePhoneNumberViewController.m */; };
+		FAFFCD571EDB623F0049BA2B /* BTLogin2RecoverPasswdViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FAFFCD3D1EDB623F0049BA2B /* BTLogin2RecoverPasswdViewController.m */; };
+		FAFFCD581EDB623F0049BA2B /* BTLogin2RegisterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FAFFCD3F1EDB623F0049BA2B /* BTLogin2RegisterViewController.m */; };
+		FAFFCD591EDB623F0049BA2B /* BTLogin2ResetPasswdViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FAFFCD411EDB623F0049BA2B /* BTLogin2ResetPasswdViewController.m */; };
+		FAFFCD5A1EDB623F0049BA2B /* BTLogin2ThirdPartyLoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FAFFCD431EDB623F0049BA2B /* BTLogin2ThirdPartyLoginViewController.m */; };
+		FAFFCD5B1EDB623F0049BA2B /* BTLogin2UserNameSettingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FAFFCD451EDB623F0049BA2B /* BTLogin2UserNameSettingViewController.m */; };
+		FAFFCD5C1EDB623F0049BA2B /* BTLogin2ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FAFFCD471EDB623F0049BA2B /* BTLogin2ViewController.m */; };
+		FAFFCD5D1EDB623F0049BA2B /* BTLogin2APIEncryption.m in Sources */ = {isa = PBXBuildFile; fileRef = FAFFCD4A1EDB623F0049BA2B /* BTLogin2APIEncryption.m */; };
+		FAFFCD5E1EDB623F0049BA2B /* BTLogin2ThirdPartyLoginView.m in Sources */ = {isa = PBXBuildFile; fileRef = FAFFCD4D1EDB623F0049BA2B /* BTLogin2ThirdPartyLoginView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +68,40 @@
 		FAFFCD141EDB61DD0049BA2B /* Login and Registration moduleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Login and Registration moduleUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FAFFCD181EDB61DD0049BA2B /* Login_and_Registration_moduleUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Login_and_Registration_moduleUITests.m; sourceTree = "<group>"; };
 		FAFFCD1A1EDB61DD0049BA2B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FAFFCD291EDB623F0049BA2B /* BTLogin2Button.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BTLogin2Button.h; sourceTree = "<group>"; };
+		FAFFCD2A1EDB623F0049BA2B /* BTLogin2Button.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BTLogin2Button.m; sourceTree = "<group>"; };
+		FAFFCD2B1EDB623F0049BA2B /* BTLogin2Helper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BTLogin2Helper.h; sourceTree = "<group>"; };
+		FAFFCD2C1EDB623F0049BA2B /* BTLogin2Helper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BTLogin2Helper.m; sourceTree = "<group>"; };
+		FAFFCD2D1EDB623F0049BA2B /* BTLogin2TextField.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BTLogin2TextField.h; sourceTree = "<group>"; };
+		FAFFCD2E1EDB623F0049BA2B /* BTLogin2TextField.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BTLogin2TextField.m; sourceTree = "<group>"; };
+		FAFFCD301EDB623F0049BA2B /* BTLogin2BundlePhoneNumberViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BTLogin2BundlePhoneNumberViewController.h; sourceTree = "<group>"; };
+		FAFFCD311EDB623F0049BA2B /* BTLogin2BundlePhoneNumberViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BTLogin2BundlePhoneNumberViewController.m; sourceTree = "<group>"; };
+		FAFFCD321EDB623F0049BA2B /* BTLogin2GuideViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BTLogin2GuideViewController.h; sourceTree = "<group>"; };
+		FAFFCD331EDB623F0049BA2B /* BTLogin2GuideViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BTLogin2GuideViewController.m; sourceTree = "<group>"; };
+		FAFFCD341EDB623F0049BA2B /* BTLogin2ManageViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BTLogin2ManageViewController.h; sourceTree = "<group>"; };
+		FAFFCD351EDB623F0049BA2B /* BTLogin2ManageViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BTLogin2ManageViewController.m; sourceTree = "<group>"; };
+		FAFFCD361EDB623F0049BA2B /* BTLogin2PasswdSettingViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BTLogin2PasswdSettingViewController.h; sourceTree = "<group>"; };
+		FAFFCD371EDB623F0049BA2B /* BTLogin2PasswdSettingViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BTLogin2PasswdSettingViewController.m; sourceTree = "<group>"; };
+		FAFFCD381EDB623F0049BA2B /* BTLogin2RecoverPasswdUseEmailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BTLogin2RecoverPasswdUseEmailViewController.h; sourceTree = "<group>"; };
+		FAFFCD391EDB623F0049BA2B /* BTLogin2RecoverPasswdUseEmailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BTLogin2RecoverPasswdUseEmailViewController.m; sourceTree = "<group>"; };
+		FAFFCD3A1EDB623F0049BA2B /* BTLogin2RecoverPasswdUsePhoneNumberViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BTLogin2RecoverPasswdUsePhoneNumberViewController.h; sourceTree = "<group>"; };
+		FAFFCD3B1EDB623F0049BA2B /* BTLogin2RecoverPasswdUsePhoneNumberViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BTLogin2RecoverPasswdUsePhoneNumberViewController.m; sourceTree = "<group>"; };
+		FAFFCD3C1EDB623F0049BA2B /* BTLogin2RecoverPasswdViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BTLogin2RecoverPasswdViewController.h; sourceTree = "<group>"; };
+		FAFFCD3D1EDB623F0049BA2B /* BTLogin2RecoverPasswdViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BTLogin2RecoverPasswdViewController.m; sourceTree = "<group>"; };
+		FAFFCD3E1EDB623F0049BA2B /* BTLogin2RegisterViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BTLogin2RegisterViewController.h; sourceTree = "<group>"; };
+		FAFFCD3F1EDB623F0049BA2B /* BTLogin2RegisterViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BTLogin2RegisterViewController.m; sourceTree = "<group>"; };
+		FAFFCD401EDB623F0049BA2B /* BTLogin2ResetPasswdViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BTLogin2ResetPasswdViewController.h; sourceTree = "<group>"; };
+		FAFFCD411EDB623F0049BA2B /* BTLogin2ResetPasswdViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BTLogin2ResetPasswdViewController.m; sourceTree = "<group>"; };
+		FAFFCD421EDB623F0049BA2B /* BTLogin2ThirdPartyLoginViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BTLogin2ThirdPartyLoginViewController.h; sourceTree = "<group>"; };
+		FAFFCD431EDB623F0049BA2B /* BTLogin2ThirdPartyLoginViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BTLogin2ThirdPartyLoginViewController.m; sourceTree = "<group>"; };
+		FAFFCD441EDB623F0049BA2B /* BTLogin2UserNameSettingViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BTLogin2UserNameSettingViewController.h; sourceTree = "<group>"; };
+		FAFFCD451EDB623F0049BA2B /* BTLogin2UserNameSettingViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BTLogin2UserNameSettingViewController.m; sourceTree = "<group>"; };
+		FAFFCD461EDB623F0049BA2B /* BTLogin2ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BTLogin2ViewController.h; sourceTree = "<group>"; };
+		FAFFCD471EDB623F0049BA2B /* BTLogin2ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BTLogin2ViewController.m; sourceTree = "<group>"; };
+		FAFFCD491EDB623F0049BA2B /* BTLogin2APIEncryption.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BTLogin2APIEncryption.h; sourceTree = "<group>"; };
+		FAFFCD4A1EDB623F0049BA2B /* BTLogin2APIEncryption.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BTLogin2APIEncryption.m; sourceTree = "<group>"; };
+		FAFFCD4C1EDB623F0049BA2B /* BTLogin2ThirdPartyLoginView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BTLogin2ThirdPartyLoginView.h; sourceTree = "<group>"; };
+		FAFFCD4D1EDB623F0049BA2B /* BTLogin2ThirdPartyLoginView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BTLogin2ThirdPartyLoginView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +136,7 @@
 				FAFFCD0C1EDB61DD0049BA2B /* Login and Registration moduleTests */,
 				FAFFCD171EDB61DD0049BA2B /* Login and Registration moduleUITests */,
 				FAFFCCF11EDB61DC0049BA2B /* Products */,
+				FAFFCD261EDB623F0049BA2B /* Section */,
 			);
 			sourceTree = "<group>";
 		};
@@ -138,6 +190,87 @@
 				FAFFCD1A1EDB61DD0049BA2B /* Info.plist */,
 			);
 			path = "Login and Registration moduleUITests";
+			sourceTree = "<group>";
+		};
+		FAFFCD261EDB623F0049BA2B /* Section */ = {
+			isa = PBXGroup;
+			children = (
+				FAFFCD271EDB623F0049BA2B /* Login */,
+			);
+			path = Section;
+			sourceTree = "<group>";
+		};
+		FAFFCD271EDB623F0049BA2B /* Login */ = {
+			isa = PBXGroup;
+			children = (
+				FAFFCD281EDB623F0049BA2B /* Common */,
+				FAFFCD2F1EDB623F0049BA2B /* Controller */,
+				FAFFCD481EDB623F0049BA2B /* Model */,
+				FAFFCD4B1EDB623F0049BA2B /* View */,
+			);
+			path = Login;
+			sourceTree = "<group>";
+		};
+		FAFFCD281EDB623F0049BA2B /* Common */ = {
+			isa = PBXGroup;
+			children = (
+				FAFFCD291EDB623F0049BA2B /* BTLogin2Button.h */,
+				FAFFCD2A1EDB623F0049BA2B /* BTLogin2Button.m */,
+				FAFFCD2B1EDB623F0049BA2B /* BTLogin2Helper.h */,
+				FAFFCD2C1EDB623F0049BA2B /* BTLogin2Helper.m */,
+				FAFFCD2D1EDB623F0049BA2B /* BTLogin2TextField.h */,
+				FAFFCD2E1EDB623F0049BA2B /* BTLogin2TextField.m */,
+			);
+			path = Common;
+			sourceTree = "<group>";
+		};
+		FAFFCD2F1EDB623F0049BA2B /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				FAFFCD301EDB623F0049BA2B /* BTLogin2BundlePhoneNumberViewController.h */,
+				FAFFCD311EDB623F0049BA2B /* BTLogin2BundlePhoneNumberViewController.m */,
+				FAFFCD321EDB623F0049BA2B /* BTLogin2GuideViewController.h */,
+				FAFFCD331EDB623F0049BA2B /* BTLogin2GuideViewController.m */,
+				FAFFCD341EDB623F0049BA2B /* BTLogin2ManageViewController.h */,
+				FAFFCD351EDB623F0049BA2B /* BTLogin2ManageViewController.m */,
+				FAFFCD361EDB623F0049BA2B /* BTLogin2PasswdSettingViewController.h */,
+				FAFFCD371EDB623F0049BA2B /* BTLogin2PasswdSettingViewController.m */,
+				FAFFCD381EDB623F0049BA2B /* BTLogin2RecoverPasswdUseEmailViewController.h */,
+				FAFFCD391EDB623F0049BA2B /* BTLogin2RecoverPasswdUseEmailViewController.m */,
+				FAFFCD3A1EDB623F0049BA2B /* BTLogin2RecoverPasswdUsePhoneNumberViewController.h */,
+				FAFFCD3B1EDB623F0049BA2B /* BTLogin2RecoverPasswdUsePhoneNumberViewController.m */,
+				FAFFCD3C1EDB623F0049BA2B /* BTLogin2RecoverPasswdViewController.h */,
+				FAFFCD3D1EDB623F0049BA2B /* BTLogin2RecoverPasswdViewController.m */,
+				FAFFCD3E1EDB623F0049BA2B /* BTLogin2RegisterViewController.h */,
+				FAFFCD3F1EDB623F0049BA2B /* BTLogin2RegisterViewController.m */,
+				FAFFCD401EDB623F0049BA2B /* BTLogin2ResetPasswdViewController.h */,
+				FAFFCD411EDB623F0049BA2B /* BTLogin2ResetPasswdViewController.m */,
+				FAFFCD421EDB623F0049BA2B /* BTLogin2ThirdPartyLoginViewController.h */,
+				FAFFCD431EDB623F0049BA2B /* BTLogin2ThirdPartyLoginViewController.m */,
+				FAFFCD441EDB623F0049BA2B /* BTLogin2UserNameSettingViewController.h */,
+				FAFFCD451EDB623F0049BA2B /* BTLogin2UserNameSettingViewController.m */,
+				FAFFCD461EDB623F0049BA2B /* BTLogin2ViewController.h */,
+				FAFFCD471EDB623F0049BA2B /* BTLogin2ViewController.m */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		FAFFCD481EDB623F0049BA2B /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				FAFFCD491EDB623F0049BA2B /* BTLogin2APIEncryption.h */,
+				FAFFCD4A1EDB623F0049BA2B /* BTLogin2APIEncryption.m */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		FAFFCD4B1EDB623F0049BA2B /* View */ = {
+			isa = PBXGroup;
+			children = (
+				FAFFCD4C1EDB623F0049BA2B /* BTLogin2ThirdPartyLoginView.h */,
+				FAFFCD4D1EDB623F0049BA2B /* BTLogin2ThirdPartyLoginView.m */,
+			);
+			path = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -273,9 +406,26 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FAFFCD4E1EDB623F0049BA2B /* BTLogin2Button.m in Sources */,
+				FAFFCD5C1EDB623F0049BA2B /* BTLogin2ViewController.m in Sources */,
+				FAFFCD591EDB623F0049BA2B /* BTLogin2ResetPasswdViewController.m in Sources */,
+				FAFFCD4F1EDB623F0049BA2B /* BTLogin2Helper.m in Sources */,
+				FAFFCD561EDB623F0049BA2B /* BTLogin2RecoverPasswdUsePhoneNumberViewController.m in Sources */,
+				FAFFCD5B1EDB623F0049BA2B /* BTLogin2UserNameSettingViewController.m in Sources */,
 				FAFFCCFB1EDB61DC0049BA2B /* ViewController.m in Sources */,
 				FAFFCCF81EDB61DC0049BA2B /* AppDelegate.m in Sources */,
+				FAFFCD5E1EDB623F0049BA2B /* BTLogin2ThirdPartyLoginView.m in Sources */,
+				FAFFCD5D1EDB623F0049BA2B /* BTLogin2APIEncryption.m in Sources */,
+				FAFFCD5A1EDB623F0049BA2B /* BTLogin2ThirdPartyLoginViewController.m in Sources */,
+				FAFFCD531EDB623F0049BA2B /* BTLogin2ManageViewController.m in Sources */,
+				FAFFCD501EDB623F0049BA2B /* BTLogin2TextField.m in Sources */,
 				FAFFCCF51EDB61DC0049BA2B /* main.m in Sources */,
+				FAFFCD551EDB623F0049BA2B /* BTLogin2RecoverPasswdUseEmailViewController.m in Sources */,
+				FAFFCD571EDB623F0049BA2B /* BTLogin2RecoverPasswdViewController.m in Sources */,
+				FAFFCD581EDB623F0049BA2B /* BTLogin2RegisterViewController.m in Sources */,
+				FAFFCD521EDB623F0049BA2B /* BTLogin2GuideViewController.m in Sources */,
+				FAFFCD541EDB623F0049BA2B /* BTLogin2PasswdSettingViewController.m in Sources */,
+				FAFFCD511EDB623F0049BA2B /* BTLogin2BundlePhoneNumberViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -507,6 +657,7 @@
 				FAFFCD1F1EDB61DD0049BA2B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FAFFCD201EDB61DD0049BA2B /* Build configuration list for PBXNativeTarget "Login and Registration moduleTests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +666,7 @@
 				FAFFCD221EDB61DD0049BA2B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FAFFCD231EDB61DD0049BA2B /* Build configuration list for PBXNativeTarget "Login and Registration moduleUITests" */ = {
 			isa = XCConfigurationList;
@@ -523,6 +675,7 @@
 				FAFFCD251EDB61DD0049BA2B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
