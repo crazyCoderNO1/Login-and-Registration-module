@@ -1,1 +1,1 @@
-![Image text](https://github.com/luoerming/ReactNative-in-project/blob/master/PerviewGIF.gif)
+![Image text](https://github.com/luoerming/Login-and-Registration-module/blob/master/Perview.png)
